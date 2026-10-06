@@ -1,0 +1,1 @@
+[["engine.execute", {"command": "file.new", "params": {"width": 640, "height": 400, "background": "white"}}], ["engine.execute", {"command": "prefs.set", "params": {"values": {"interface": {"language": "zh-hans"}}}}], ["ui.set", {"theme": "studio", "fit": true}], ["ui.menu.invoke", {"id": "edit.preferences.interface"}]]
